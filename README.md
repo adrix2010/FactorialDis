@@ -1,2 +1,2 @@
-# FactorialDis
-Factorial directo con sockets
+# sockets
+cliente/ servidor de sockets en java
